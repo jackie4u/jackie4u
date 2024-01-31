@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I’m a web developer, who recently pivoted from data steward into .NET. Currently passionate about crafting projects in C# ASP and JavaScript.
+I’m a web developer, who recently pivoted from database specialist into more OOP with .NET. 
+Currently passionate about crafting projects in C# ASP and JavaScript.
 Let's turn ideas into reality! 🚀
 
 <!--
