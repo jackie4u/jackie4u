@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I’m a web developer, who recently pivoted from data steward into .NET. Currently passionate about crafting projects in C# ASP and JavaScript.
+Let's turn ideas into reality! 🚀
+
 <!--
 **jackie4u/jackie4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
